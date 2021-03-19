@@ -1,2 +1,1 @@
-# ProjConfiguration
-utils
+pod "ProjConfiguration"
